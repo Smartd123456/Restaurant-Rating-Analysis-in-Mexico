@@ -103,7 +103,7 @@ If you are planning to open or invest in a restaurant in Mexico, the data sugges
 This analysis shows that successful restaurants in Mexico align closely with local preferences-affordable prices, familiar cuisines like Mexican food, and convenient access matter most. Restaurants like Tortas, which consistently perform well in food, service, and overall ratings, offer a clear model to follow. By understanding customer behavior and filling regional gaps in supply, investors and restaurant owners can make smarter, data-driven decisions that lead to better customer satisfaction and business growth.
 
 ## Author
-Happiness Friday Bassey - Data analytics
+Happiness Friday Bassey - Data analyst
 
 
 
